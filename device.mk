@@ -261,7 +261,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.opengles.version=196610 \
-    ro.sf.lcd_density=480
+    ro.sf.lcd_density=400
 
 # DRM
 PRODUCT_PACKAGES += \
